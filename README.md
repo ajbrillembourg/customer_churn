@@ -1,7 +1,3 @@
-# customer_churn
-A repository with our team's final Python project as part of our Master of Science in Business Analytics and Information Management program.
-
-
 # Bank Customer Churn
 ## Purdue University Krannert School of Management
 ## MGMT MGMT58600-B03: Python Programming
